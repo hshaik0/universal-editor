@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149251-e1522049.adobeaemcloud.com/bin/franklin.delivery/hshaik0/universal-editor/main"
+    url: "https://author-p149251-e1648598.adobeaemcloud.com/bin/franklin.delivery/hshaik0/universal-editor/main"
     type: "markup"
     suffix: ".html"
